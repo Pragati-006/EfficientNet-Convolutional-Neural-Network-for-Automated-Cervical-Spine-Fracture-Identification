@@ -3,21 +3,22 @@
 Project Overview
 
 This project involves developing a deep learning model to detect vertebral fractures from medical images using a combination of EfficientNet and additional metadata. The model leverages advanced data augmentation and custom loss functions to enhance diagnostic precision.
+
 Objectives
 
-    Primary Goal: Achieve high accuracy in detecting vertebral fractures from medical images.
-    Purpose: Improve diagnostic capabilities by integrating image features with metadata for more reliable fracture detection.
+Primary Goal: Achieve high accuracy in detecting vertebral fractures from medical images.
+Purpose: Improve diagnostic capabilities by integrating image features with metadata for more reliable fracture detection.
 
 Methods
 
-    Model Architecture: Utilized EfficientNet for image feature extraction, combined with a metadata processing network.
-    Data Processing: Employed custom data augmentation techniques and designed specific loss functions for fracture and vertebrae detection.
-    Optimization: Implemented AdamW optimizer with Cosine Annealing Warmup Restarts scheduling for efficient training.
+Model Architecture: Utilized EfficientNet for image feature extraction, combined with a metadata processing network.
+Data Processing: Employed custom data augmentation techniques and designed specific loss functions for fracture and vertebrae detection.
+Optimization: Implemented AdamW optimizer with Cosine Annealing Warmup Restarts scheduling for efficient training.
 
 Results
 
-    Accuracy: The model demonstrated high accuracy in detecting fractures, significantly enhancing the precision of vertebral fracture diagnoses.
-    Outcome: Achieved robust performance metrics through rigorous validation and testing.
+Accuracy: The model demonstrated high accuracy in detecting fractures, significantly enhancing the precision of vertebral fracture diagnoses.
+Outcome: Achieved robust performance metrics through rigorous validation and testing.
 
 Significance
 
@@ -28,13 +29,13 @@ To get started with the project, clone this repository and follow the instructio
 Installation
 
 Clone the repository:
-git clone https://github.com/yourusername/vertebrae-fracture-detection.git
+    git clone https://github.com/yourusername/vertebrae-fracture-detection.git
 
 
 Usage
 
 Run the training script to train the model:
-python train.py
+    python train.py
 
 Evaluate the model using:
-python evaluate.py
+    python evaluate.py
