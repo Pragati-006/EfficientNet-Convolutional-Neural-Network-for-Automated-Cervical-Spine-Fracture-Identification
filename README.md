@@ -1,7 +1,6 @@
 # EfficientNet-Convolutional-Neural-Network-for-Automated-Cervical-Spine-Fracture-Identification
 
-![Thoracic-Spine](https://github.com/user-attachments/assets/c95d4ad8-7694-440a-a5bd-8ece0c7d4074)
-
+![Gray_111_-_Vertebral_column-coloured](https://github.com/user-attachments/assets/80ba6197-6be8-48ec-8f7b-bdcf2c8bc28c)
 
 ### Project Overview
 The cervical spine, located in the neck and consisting of seven vertebrae (C1 to C7), is essential for supporting the head and facilitating neck movements. Fractures in this region can result from various incidents, including car accidents, sports injuries, or trauma. Such injuries pose significant challenges, often leading to severe complications if not promptly diagnosed.
