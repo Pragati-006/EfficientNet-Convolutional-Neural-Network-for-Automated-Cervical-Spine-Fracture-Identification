@@ -5,7 +5,7 @@
 ![Thoracic-Spine](https://github.com/user-attachments/assets/c95d4ad8-7694-440a-a5bd-8ece0c7d4074)
 
 
-###Project Overview
+### Project Overview
 The cervical spine, located in the neck and consisting of seven vertebrae (C1 to C7), is essential for supporting the head and facilitating neck movements. Fractures in this region can result from various incidents, including car accidents, sports injuries, or trauma. Such injuries pose significant challenges, often leading to severe complications if not promptly diagnosed.
 
 Traditional methods for diagnosing cervical spine fractures involve manual analysis by healthcare professionals, which can be time-consuming and subjective. This project addresses this challenge by utilizing deep learning techniques to automate fracture detection, aiming to make the diagnostic process faster, more accurate, and less reliant on manual methods.
