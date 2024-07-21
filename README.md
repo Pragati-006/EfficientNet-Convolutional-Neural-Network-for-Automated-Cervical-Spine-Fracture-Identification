@@ -27,17 +27,15 @@ Model Architecture: Utilized EfficientNet for image feature extraction, combined
 Data Processing: Employed custom data augmentation techniques and designed specific loss functions for fracture and vertebrae detection.
 Optimization: Implemented AdamW optimizer with Cosine Annealing Warmup Restarts scheduling for efficient training.
 
-Model
-Vertebrae Detection
-![train_model drawio](https://github.com/user-attachments/assets/667bd3dd-549d-4e5c-a3b1-c182d8e86816)
-
-Fracture Detection
-![train_model](https://github.com/user-attachments/assets/1d054c80-4731-4765-bca5-fc73be4790af)
-
 Results
 
 The EfficientNet-based models have demonstrated high accuracy in detecting cervical spine fractures, with strong performance metrics such as accuracy, precision, recall, and F1 score. This automated system holds significant promise for enhancing diagnostic workflows and improving patient care in medical settings.
 
+Vertebrae Detection
+![train_model drawio](https://github.com/user-attachments/assets/667bd3dd-549d-4e5c-a3b1-c182d8e86816)
+
+Fracture Detection
+![Model drawio](https://github.com/user-attachments/assets/b20d7cb4-79dd-4168-97a8-f74c9e4d3f8a)
 
 Significance
 
