@@ -3,6 +3,10 @@
 Project Overview
 
 ![Thoracic-Spine](https://github.com/user-attachments/assets/c95d4ad8-7694-440a-a5bd-8ece0c7d4074)
+### Resized using HTML
+
+<img src="path/to/your/image.png" alt="Thoracic-Spine" width="500"/>
+
 
 The cervical spine, located in the neck and consisting of seven vertebrae (C1 to C7), is essential for supporting the head and facilitating neck movements. Fractures in this region can result from various incidents, including car accidents, sports injuries, or trauma. Such injuries pose significant challenges, often leading to severe complications if not promptly diagnosed.
 
