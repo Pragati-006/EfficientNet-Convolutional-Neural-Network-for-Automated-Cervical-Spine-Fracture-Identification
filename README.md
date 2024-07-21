@@ -2,6 +2,10 @@
 
 ![Gray_111_-_Vertebral_column-coloured](https://github.com/user-attachments/assets/80ba6197-6be8-48ec-8f7b-bdcf2c8bc28c)
 
+<p align="center">
+  <img src="[path/to/your/image.png](https://github.com/user-attachments/assets/80ba6197-6be8-48ec-8f7b-bdcf2c8bc28c)" alt="Gray_111_-_Vertebral_column-coloured" width="300"/>
+</p>
+
 ### Project Overview
 The cervical spine, located in the neck and consisting of seven vertebrae (C1 to C7), is essential for supporting the head and facilitating neck movements. Fractures in this region can result from various incidents, including car accidents, sports injuries, or trauma. Such injuries pose significant challenges, often leading to severe complications if not promptly diagnosed.
 
