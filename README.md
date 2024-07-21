@@ -10,6 +10,8 @@ Dataset
 
 The dataset used in this project is provided by the Radiological Society of North America (RSNA), the American Society of Neuroradiology (ASNR), and the American Society of Spine Radiology (ASSR). It includes CSV files and directories with scan slices and segmentations. The dataset is balanced, with a focus on standardizing image sizes and augmenting data to prepare it for deep learning model training.
 
+kaggle competitions download -c rsna-2022-cervical-spine-fracture-detection
+https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection/data
 
 Objectives
 
