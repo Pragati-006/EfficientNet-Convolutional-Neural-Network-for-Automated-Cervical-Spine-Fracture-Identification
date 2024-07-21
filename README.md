@@ -1,10 +1,10 @@
 # EfficientNet-Convolutional-Neural-Network-for-Automated-Cervical-Spine-Fracture-Identification
 
 
-### Explanation
+<p align="center">
+  <img src="[https://github.com/user-attachments/assets/80ba6197-6be8-48ec-8f7b-bdcf2c8bc28c](https://en.wikipedia.org/wiki/Vertebral_column#/media/File:Gray_111_-_Vertebral_column-coloured.png)" alt="Gray 111 - Vertebral column-coloured" width="500"/>
+</p>
 
-- `<p align="center">`: Centers the content inside it.
-- `<img src="https://github.com/user-attachments/assets/80ba6197-6be8-48ec-8f7b-bdcf2c8bc28c" alt="Gray 111 - Vertebral column-coloured" width="500"/>`: Embeds the image and resizes it to 500 pixels wide. Adjust the `width` value to make the image larger or smaller as needed.
 
 
 
