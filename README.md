@@ -1,7 +1,5 @@
 # EfficientNet-Convolutional-Neural-Network-for-Automated-Cervical-Spine-Fracture-Identification
 
-
-
 ![Thoracic-Spine](https://github.com/user-attachments/assets/c95d4ad8-7694-440a-a5bd-8ece0c7d4074)
 
 
@@ -10,14 +8,14 @@ The cervical spine, located in the neck and consisting of seven vertebrae (C1 to
 
 Traditional methods for diagnosing cervical spine fractures involve manual analysis by healthcare professionals, which can be time-consuming and subjective. This project addresses this challenge by utilizing deep learning techniques to automate fracture detection, aiming to make the diagnostic process faster, more accurate, and less reliant on manual methods.
 
-Dataset
+### Dataset
 
 The dataset used in this project is provided by the Radiological Society of North America (RSNA), the American Society of Neuroradiology (ASNR), and the American Society of Spine Radiology (ASSR). It includes CSV files and directories with scan slices and segmentations. The dataset is balanced, with a focus on standardizing image sizes and augmenting data to prepare it for deep learning model training.
 
 kaggle competitions download -c rsna-2022-cervical-spine-fracture-detection
 https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection/data
 
-Objectives
+### Objectives
 
 Automated Fracture Detection: Develop an EfficientNet-based system to automatically identify cervical spine fractures from X-ray images.
 Metadata Integration: Enhance the accuracy of fracture detection by incorporating metadata from X-ray images.
@@ -29,7 +27,7 @@ Model Architecture: Utilized EfficientNet for image feature extraction, combined
 Data Processing: Employed custom data augmentation techniques and designed specific loss functions for fracture and vertebrae detection.
 Optimization: Implemented AdamW optimizer with Cosine Annealing Warmup Restarts scheduling for efficient training.
 
-Results
+### Results
 
 The EfficientNet-based models have demonstrated high accuracy in detecting cervical spine fractures, with strong performance metrics such as accuracy, precision, recall, and F1 score. This automated system holds significant promise for enhancing diagnostic workflows and improving patient care in medical settings.
 
@@ -39,7 +37,7 @@ Vertebrae Detection
 Fracture Detection
 ![Model drawio](https://github.com/user-attachments/assets/b20d7cb4-79dd-4168-97a8-f74c9e4d3f8a)
 
-Significance
+### Significance
 
 This project contributes to the advancement of medical image analysis by integrating deep learning with metadata, providing a more accurate and reliable tool for diagnosing vertebral fractures. It represents a step forward in leveraging AI for improved healthcare outcomes.
 Getting Started
@@ -51,7 +49,7 @@ Clone the repository:
     git clone https://github.com/yourusername/vertebrae-fracture-detection.git
 
 
-Usage
+### Usage
 
 Run the training script to train the model:
     python train.py
